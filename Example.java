@@ -12,7 +12,6 @@ class Example
         b = scan.nextInt();
         total = sum(a,b);
         System.out.println("Sum of two integer is: "+total);
-        System.out.println("Done");
     }
 
     public static int sum(int a, int b)
